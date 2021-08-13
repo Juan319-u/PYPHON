@@ -1,12 +1,13 @@
-# Este codigo calcula e imprime **
-# la razon aurea **
-# ******************************************
-# Parametros de entredad: **
-# N = el numero de veces que se va repetir el codigo **
-# para que la razon aurea sea mas exacta **
-# ******************************************
-# Autor: Juan Felipe Corrales Toro **
-# ULTIMA ACTUALIZACION: 12 de agosto / 2021 **
+"""
+ Este codigo calcula e imprime **
+ la razon aurea **
+ ******************************************
+ Parametros de entredad: **
+ N = el numero de veces que se va repetir el codigo **
+ para que la razon aurea sea mas exacta **
+ ******************************************
+ Autor: Juan Felipe Corrales Toro **
+ ULTIMA ACTUALIZACION: 12 de agosto / 2021 **
 
 N = int ( input ( "ingrese el N ENTRE MAS GRANDE MAS EXACTO!" )) #ESTE INPUT LO PUSE PARA PEDIR EL N
 RAZONAUREA =1.61803398874989
